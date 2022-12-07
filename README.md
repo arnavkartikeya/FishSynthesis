@@ -4,4 +4,4 @@
 
 Output from fine-tuned Stable Diffusion model using Google Dreambooth and [this kaggle dataset](https://www.kaggle.com/datasets/crowww/a-large-scale-fish-dataset). Finetuned using approach from [TheLastBen](https://github.com/TheLastBen/fast-stable-diffusion). Model uploaded as [HuggingFace Pipeline](https://huggingface.co/arnavkartikeya/fakedmarinedata). 
 
-![Real vs Fake Images](https://imgur.com/a/CqUmnUx)
+[Real vs Fake Images](real-fake-compare.jpeg)

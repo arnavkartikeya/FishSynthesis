@@ -21,7 +21,9 @@ Results for Synthetic-CNN with better training practices (ReduceLROnPlateau, oth
 
 Kaggle dataset compiled from 300 generate images across 9 species of fish can be found here [Kaggle Dataset](https://www.kaggle.com/datasets/arnavkartikeya/fakefishdata)
 
-Data use for generation and test are from [this kaggle dataset](https://www.kaggle.com/datasets/crowww/a-large-scale-fish-dataset).
+Data use for generation and test are from [This Kaggle Dataset](https://www.kaggle.com/datasets/crowww/a-large-scale-fish-dataset).
 
-Finetuned model uploaded as model uploaded as [HuggingFace Pipeline](https://huggingface.co/arnavkartikeya/fakedmarinedata). *Generating a single 512x512 image takes around 30 seconds on Colab Pro, the fakefishdata Kaggle Dataset was created on a Nautilus Cluster*
+Finetuned model uploaded as model uploaded as [HuggingFace Pipeline](https://huggingface.co/arnavkartikeya/fakedmarinedata). *Generating a single 512x512 image takes around 30 seconds on Colab Pro, the fakefishdata Kaggle Dataset was created on a Nautilus Cluster*.
+
+Dreambooth finetuning implementation implemented from [TheLastBen on Github](https://github.com/TheLastBen/fast-stable-diffusion).
 

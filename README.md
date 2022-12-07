@@ -1,7 +1,7 @@
 # FishSynthesis
 1st place project at UCSC Santa Cruz AI challenge sponsored by Egnyte. 
 
-An image classification task trained on output from Stable Diffusion's text-to-image model, fine-tuned on dreambooth. Trained on 5% of original data (150/9000) and synthetically generated results with impressive performance.
+An image classification task trained on output from Stable Diffusion's text-to-image model, fine-tuned on dreambooth. Trained on 5% of original data (150/9000) and synthetically generated results with impressive performance (95% validation accuracy, results compared to pure real data in Training Results section).
 
 ## Output
 Output from fine-tuned Stable Diffusion model using Google Dreambooth. Look at notes section for sources and resources for your own experimentation. 

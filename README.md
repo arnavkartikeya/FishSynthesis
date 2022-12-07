@@ -23,7 +23,7 @@ Kaggle dataset compiled from 300 generate images across 9 species of fish can be
 
 Data use for generation and test are from [This Kaggle Dataset](https://www.kaggle.com/datasets/crowww/a-large-scale-fish-dataset).
 
-Finetuned model uploaded as model uploaded as [HuggingFace Pipeline](https://huggingface.co/arnavkartikeya/fakedmarinedata). *Generating a single 512x512 image takes around 30 seconds on Colab Pro, the fakefishdata Kaggle Dataset was created on a Nautilus Cluster*.
+Finetuned model uploaded as model uploaded as [HuggingFace Pipeline](https://huggingface.co/arnavkartikeya/fakedmarinedata). *Generating a single 512x512 image takes around 30 seconds on Colab Pro, the fakefishdata Kaggle Dataset was created on a Nautilus Cluster after 8 hours of training*.
 
 Dreambooth finetuning implementation implemented from [TheLastBen on Github](https://github.com/TheLastBen/fast-stable-diffusion).
 

@@ -13,3 +13,4 @@ Results for training CNN on 150 real images plus synthetic data -- Synthetic-CNN
 
 Results for Synthetic-CNN with better training practices (ReduceLROnPlateau, other Keras Callback features) -- Improved Synthetic CNN
 
+![Results](results.png)

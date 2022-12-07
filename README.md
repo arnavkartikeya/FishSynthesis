@@ -27,3 +27,6 @@ Finetuned model uploaded as model uploaded as [HuggingFace Pipeline](https://hug
 
 Dreambooth finetuning implementation implemented from [TheLastBen on Github](https://github.com/TheLastBen/fast-stable-diffusion).
 
+## Notebook instructions
+
+Create a kaggle API token, instructions can be found [here](https://www.kaggle.com/docs/api). Upload the kaggle.json file to the same directory as the where the notebook is being run. Afterwards, all cells should be runnable. 

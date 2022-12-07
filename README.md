@@ -7,7 +7,7 @@ Output from fine-tuned Stable Diffusion model using Google Dreambooth and [this 
 ![Real vs Fake Images](real-fake-compare.jpeg)
 
 ## Training Results
-Results for training CNN on 150 real images -- Real-CNN \n
-Results for training CNN on 150 real images plus synthetic data -- Synthetic-CNN \n
+Results for training CNN on 150 real images -- Real-CNN\n
+Results for training CNN on 150 real images plus synthetic data -- Synthetic-CNN\n
 Results for Synthetic-CNN with better training practices (ReduceLROnPlateau, other Keras Callback features) -- Improved Synthetic CNN
 
